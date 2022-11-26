@@ -1,7 +1,1 @@
-# second-week-homework
-
-
-### ikinci haftanın ödevi: 
-  - bu hafta işlenen konuları içeren bir uygulama geliştirilecek
-  - bu uygulamada en azından bir iki tane üçüncü parti kütüphane kullanılacak
-  - Responsive tasarıma dikkat edilecek
+- Repoyu silemedim.Başka bir repo olarak yüklemek durumunda kaldım.Boş olduğu için ödevi yapmadım olarak algılamayın:)
